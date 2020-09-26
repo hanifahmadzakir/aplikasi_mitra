@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "551459810974",
+    "firebase_url": "https://sipasflutterdatabase.firebaseio.com",
+    "project_id": "sipasflutterdatabase",
+    "storage_bucket": "sipasflutterdatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551459810974:android:e54cabb320103279dd958f",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_mitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551459810974-u64qtagdfp5ru0085hgupcov2n23jr0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2YQeHIv5BsNVGjMF2iWHY_U2-UhBOghc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551459810974-u64qtagdfp5ru0085hgupcov2n23jr0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551459810974:android:3913938f45a8e4d7dd958f",
+        "android_client_info": {
+          "package_name": "com.example.sipas_catalogue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551459810974-u64qtagdfp5ru0085hgupcov2n23jr0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2YQeHIv5BsNVGjMF2iWHY_U2-UhBOghc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551459810974-u64qtagdfp5ru0085hgupcov2n23jr0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551459810974:android:dfce85ab4f20c0f5dd958f",
+        "android_client_info": {
+          "package_name": "com.example.sipas_userapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551459810974-j7fmq194purpufttscljt3pnt2ge8sbc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sipas_userapps",
+            "certificate_hash": "cb2b7f83bf09384702e6aca03ea6c6f42c9b5c6b"
+          }
+        },
+        {
+          "client_id": "551459810974-u64qtagdfp5ru0085hgupcov2n23jr0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2YQeHIv5BsNVGjMF2iWHY_U2-UhBOghc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551459810974-u64qtagdfp5ru0085hgupcov2n23jr0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
