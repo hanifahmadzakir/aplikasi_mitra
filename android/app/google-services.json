@@ -100,6 +100,35 @@
           ]
         }
       }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551459810974:android:068486ea1f3e00addd958f",
+        "android_client_info": {
+          "package_name": "com.sipas.aplikasi_mitra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551459810974-u64qtagdfp5ru0085hgupcov2n23jr0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2YQeHIv5BsNVGjMF2iWHY_U2-UhBOghc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551459810974-u64qtagdfp5ru0085hgupcov2n23jr0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
     }
   ],
   "configuration_version": "1"
